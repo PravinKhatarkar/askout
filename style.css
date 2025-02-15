@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.tenor-gif-embed{
+    margin-top: 40px;
+    height: 54vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+
+   
+}
+
+.gif{
+    margin-top: 45px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.question{
+    align-items: center;
+    text-align: center;
+    font-family: poppins;
+    font-size: xx-large;
+    font-weight: 500;
+    margin-top: 10px;
+
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    align-items: center;
+ 
+
+}
+
+.yes1{
+    margin: 23px 10px;
+    height: 30px;
+    width: 60px;
+    color: white;
+    background-color: rgb(245, 142, 159);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.yes6{
+
+    margin: 23px 10px;
+    height: 100px;
+    width: 240px;
+    color: white;
+    background-color: rgb(245, 142, 159);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: poppins;
+    font-weight: bold;
+    font-size: x-large;
+
+}
+.no1{
+    margin: 23px 10px;
+    height: 30px;
+    width: 60px;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(50, 158, 216);
+    border: none;
+    border-radius: 5px;
+
+}
+.yes2{
+    margin: 23px 10px;
+    height: 50px;
+    width: 100px;
+    color: white;
+    background-color: rgb(245, 142, 159);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+}
+.no2{
+    margin: 23px 10px;
+    height: 30px;
+    width: 60px;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(50, 158, 216);
+    border: none;
+    border-radius: 5px;
+
+}
+
+.yes3{
+    margin: 23px 10px;
+    height: 75px;
+    width: 150px;
+    color: white;
+    background-color: rgb(245, 142, 159);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+}
+.no3{
+    margin: 23px 10px;
+    height: 20px;
+    width: 40px;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(50, 158, 216);
+    border: none;
+    border-radius: 5px;
+
+}
+
+.yes4{
+    margin: 23px 10px;
+    height: 100px;
+    width: 200px;
+    color: white;
+    background-color: rgb(245, 142, 159);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.yes5{
+    margin: 23px 10px;
+    height: 150px;
+    width: 300px;
+    color: white;
+    background-color: rgb(245, 142, 159);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+   
+}
+.yes5 a{
+    font-family: poppins;
+    font-size: larger;
+}
+
+
+
+.no4{
+    margin: 23px 10px;
+    height: 12px;
+    width: 24px;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(50, 158, 216);
+    border: none;
+    border-radius: 5px;
+    font-size: smaller;
+    justify-items: center;
+
+}
+
+.no4 a{
+    text-align: center;
+    align-items: center;
+    font-size: x-small;
+}
+
+
+
+
+.yeslink{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 500;
+}
+.nolink{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: 500;
+}
+.image{
+    color: black;
+    background-color: red;
+    height: 45px;
+    width: 45px;
+    cursor: pointer;
+
+}
